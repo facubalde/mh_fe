@@ -1,0 +1,33 @@
+#mainSubtitle {
+    border: 1px solid grey;
+    text-align: center;
+}
+
+#mainTitle {
+    display: block;
+}
+
+#mainMenu {
+    position: relative;
+    left: 1100px;
+}
+
+#mainImage {
+    width: 100%;
+}
+
+#imageLogo {
+    
+}
+
+/*
+h2 {
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.logo {
+    top: 100;
+    left: 100;
+}
+*/
