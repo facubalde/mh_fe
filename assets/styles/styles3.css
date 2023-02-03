@@ -1,0 +1,35 @@
+#imageLogo {
+    top: 0px;
+}
+
+#mainTitle {
+    position: absolute;
+    left: 200px;
+    top: 25px;
+}
+
+#mainMenu {
+   position: absolute;
+   right: 0px;
+   top: 50px;
+}
+
+#mainImage {
+    display: inline-block;
+    width: 100%;
+}
+
+#mainSubtitle {
+   position: absolute;
+   top: 400px;
+   left: 600px;
+}
+
+#mainContent {
+   position: absolute;
+   top: 450px;
+}
+
+.opc {
+    text-align: center;
+}

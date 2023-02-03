@@ -17,9 +17,26 @@
 }
 
 #imageLogo {
-    
+    position: absolute;
+    top: 450px;
 }
 
+#mainContent {
+    position: relative;
+    left: 200px;
+}
+
+.opc {
+    width: 20px;
+    height: 10px;
+    background-color: royalblue;
+    color:  white;
+    text-decoration: none;
+}
+
+.opc:hover {
+    background-color: limegreen;
+}
 /*
 h2 {
     border: 1px solid grey;
