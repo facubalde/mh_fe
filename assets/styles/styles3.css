@@ -23,6 +23,7 @@
    position: absolute;
    top: 400px;
    left: 600px;
+   border: 1px solid black;
 }
 
 #mainContent {
